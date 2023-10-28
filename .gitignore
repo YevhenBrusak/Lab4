@@ -1,0 +1,4 @@
+__pycache__/
+migrations/
+myvenv2/
+site.db
