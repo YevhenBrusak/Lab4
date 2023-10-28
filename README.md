@@ -15,3 +15,10 @@ It is a secure password management system that enforces password policies, imple
 * Limit on consecutive failed login attempts
 * CAPTCHA mechanism to protect against bots during registration
 * Optional two-factor authentication (2FA) implementation
+
+##  Notes
+The requirements.txt file should list all Python libraries that your notebooks depend on, and they will be installed using:
+```
+pip install -r requirements.txt
+
+```
