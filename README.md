@@ -20,5 +20,4 @@ It is a secure password management system that enforces password policies, imple
 The requirements.txt file should list all Python libraries that your notebooks depend on, and they will be installed using:
 ```
 pip install -r requirements.txt
-
 ```
