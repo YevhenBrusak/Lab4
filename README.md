@@ -1,7 +1,8 @@
-Lab 4
+# Lab 4
+
 It is a secure password management system that enforces password policies, implements user registration and login functionality, and offers additional security features.
 
-Features
+# Features
 User registration and login
 Password policy enforcement:
 Minimum length of 8 characters
